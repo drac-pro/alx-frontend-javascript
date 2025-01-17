@@ -20,4 +20,4 @@ sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
 ```
 
-*Note:* run npm install after you install node in the project home directory.
+*Note:* run `npm install` after you install node in the project home directory.
